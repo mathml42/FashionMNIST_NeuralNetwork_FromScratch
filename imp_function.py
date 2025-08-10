@@ -27,3 +27,9 @@ def der_relu(z):
 
 def softmax(Z):
     return np.exp(Z) / np.sum(np.exp(Z))
+
+def leaky_relu(X,a):
+    if X > 0 :
+        return X
+    else:
+        return a*X
