@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-13.5.1-arm64-arm-64bit",
+  "python":  "CPython 3.10.18",
+  "startedAt":  "2025-08-11T15:03:16.728036Z",
+  "program":  "/Users/himanshu/dev/study_p/FashionMNIST_NeuralNetwork_FromScratch/class_examples.py",
+  "codePath":  "class_examples.py",
+  "codePathLocal":  "class_examples.py",
+  "git":  {
+    "remote":  "git@github.com:mathml42/FashionMNIST_NeuralNetwork_FromScratch.git",
+    "commit":  "e1022f86212a4c20950f2cb2a85a229d8f4d5af5"
+  },
+  "email":  "ma23c011@smail.iitm.ac.in",
+  "root":  "/Users/himanshu/dev/study_p/FashionMNIST_NeuralNetwork_FromScratch",
+  "host":  "Nipuns-Mac-mini.local",
+  "executable":  "/Users/himanshu/dev/study_p/mlopss/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "222565842944"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "16106127360",
+    "ramTotalBytes":  "8589934592"
+  },
+  "writerId":  "m154m4qrj1ot8vdw5xp7de33co7kk2ra"
+}

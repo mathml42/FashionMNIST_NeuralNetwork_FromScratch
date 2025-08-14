@@ -1,0 +1,54 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        e:
+            m154m4qrj1ot8vdw5xp7de33co7kk2ra:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 8
+                    memoryGb: 8
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "16106127360"
+                codePath: class_examples.py
+                codePathLocal: class_examples.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "222565842944"
+                email: ma23c011@smail.iitm.ac.in
+                executable: /Users/himanshu/dev/study_p/mlopss/bin/python
+                git:
+                    commit: e1022f86212a4c20950f2cb2a85a229d8f4d5af5
+                    remote: git@github.com:mathml42/FashionMNIST_NeuralNetwork_FromScratch.git
+                host: Nipuns-Mac-mini.local
+                memory:
+                    total: "8589934592"
+                os: macOS-13.5.1-arm64-arm-64bit
+                program: /Users/himanshu/dev/study_p/FashionMNIST_NeuralNetwork_FromScratch/class_examples.py
+                python: CPython 3.10.18
+                root: /Users/himanshu/dev/study_p/FashionMNIST_NeuralNetwork_FromScratch
+                startedAt: "2025-08-11T15:03:16.728036Z"
+                writerId: m154m4qrj1ot8vdw5xp7de33co7kk2ra
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 105
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 105
+            "4": 3.10.18
+            "5": 0.21.1
+            "12": 0.21.1
+            "13": darwin-arm64

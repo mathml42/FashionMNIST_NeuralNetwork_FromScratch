@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/Users/himanshu/dev/study_p/FashionMNIST_NeuralNetwork_FromScratch/class_examples.py", line 17, in <module>
+    im = plt.subplot(4,3,i) # plotting figures in plot using subplot
+  File "/Users/himanshu/dev/study_p/mlopss/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1323, in subplot
+    key = SubplotSpec._from_subplot_args(fig, args)
+  File "/Users/himanshu/dev/study_p/mlopss/lib/python3.10/site-packages/matplotlib/gridspec.py", line 600, in _from_subplot_args
+    raise ValueError(
+ValueError: num must be an integer with 1 <= num <= 12, not 0
+Traceback (most recent call last):
+  File "/Users/himanshu/dev/study_p/FashionMNIST_NeuralNetwork_FromScratch/class_examples.py", line 17, in <module>
+    im = plt.subplot(4,3,i) # plotting figures in plot using subplot
+  File "/Users/himanshu/dev/study_p/mlopss/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1323, in subplot
+    key = SubplotSpec._from_subplot_args(fig, args)
+  File "/Users/himanshu/dev/study_p/mlopss/lib/python3.10/site-packages/matplotlib/gridspec.py", line 600, in _from_subplot_args
+    raise ValueError(
+ValueError: num must be an integer with 1 <= num <= 12, not 0
